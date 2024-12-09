@@ -88,6 +88,9 @@
             <mxRectangle width="400" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="9CpHN38B6ga7ZRFHG8aR-2" value="Aggiungere caricamento a UI + Lambda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
