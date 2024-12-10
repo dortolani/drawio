@@ -43,7 +43,7 @@
         <mxCell id="AAG1v3WY4wcVgF360aav-22" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Gestionale&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Salesforce è il sistema in carico per l&#39;inserimento dei fornitori e delle istanze, nonchè utilizzato per gestire tutto il flusso di lavoro e generare i documenti necessari&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="30" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AAG1v3WY4wcVgF360aav-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Intelligenza Artificiale&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sistema in carico di elaborare i documenti ricevuti in input (le fasi acconti e saldi sono gestite a mano) e fornire a Salesforce gli esiti su ricevibilità, ammissibilità e gestione delle checklist&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OpenSearch - DB vettoriale&lt;/div&gt;&lt;div&gt;BedRock - LLM&lt;/div&gt;&lt;div&gt;Lamdba Fuction - Gestisce le domande verso LLM, ricevi l&#39;output json e lo manda a SF&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="AAG1v3WY4wcVgF360aav-23" value="&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Intelligenza Artificiale&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;Sistema in carico di elaborare i documenti ricevuti in input (le fasi acconti e saldi sono gestite a mano) e fornire a Salesforce gli esiti su ricevibilità, ammissibilità e gestione delle checklist&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;OpenSearch (via Bedrock Knowledge Bases) - DB vettoriale&lt;/div&gt;&lt;div&gt;BedRock - LLM&lt;/div&gt;&lt;div&gt;Lamdba Fuction - Gestisce le domande verso LLM, ricevi l&#39;output json e lo manda a SF&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="540" y="280" width="230" height="160" as="geometry" />
         </mxCell>
         <mxCell id="AAG1v3WY4wcVgF360aav-29" value="Flussi" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;strokeColor=#666666;fontSize=16;fillColor=#f5f5f5;fontColor=#333333;" parent="1" vertex="1">
@@ -88,7 +88,7 @@
             <mxRectangle width="400" height="60" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9CpHN38B6ga7ZRFHG8aR-2" value="Aggiungere caricamento a UI + Lambda" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9CpHN38B6ga7ZRFHG8aR-2" value="Aggiungere caricamento a UI + Lambda" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="670" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
