@@ -31,6 +31,9 @@
         <mxCell id="F4zYhCYsyOvKUlu6wecK-5" value="Contact (familiare n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-9" target="F4zYhCYsyOvKUlu6wecK-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-9" value="Case (nuova)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
         </mxCell>
@@ -44,11 +47,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-10" value="Case (variazione)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-11" target="F4zYhCYsyOvKUlu6wecK-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="620" y="80" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-11" value="Case (variazione)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
@@ -86,35 +99,11 @@
         <mxCell id="F4zYhCYsyOvKUlu6wecK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-15" target="F4zYhCYsyOvKUlu6wecK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-15" value="Asset TARI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="160" height="40" as="geometry" />
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-15" target="F4zYhCYsyOvKUlu6wecK-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-9" target="F4zYhCYsyOvKUlu6wecK-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="190" as="sourcePoint" />
-            <mxPoint x="590" y="140" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="560" y="140" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-17" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="F4zYhCYsyOvKUlu6wecK-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="220" as="sourcePoint" />
-            <mxPoint x="560" y="160" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="600" y="220" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-18" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="F4zYhCYsyOvKUlu6wecK-15">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="300" as="sourcePoint" />
-            <mxPoint x="560" y="240" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="300" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-15" value="Asset TARI&lt;div&gt;(Foglio / Particella / Subalterno)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-19" value="Asset version 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
