@@ -13,13 +13,13 @@
         <mxCell id="F4zYhCYsyOvKUlu6wecK-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-1" target="F4zYhCYsyOvKUlu6wecK-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-1" value="Account (Cittadino - container)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-1" value="Account (Cittadino - container)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-2" value="Contact (cittadino)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-2" value="Contact (cittadino)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-3" value="Contact (familiare 1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-3" value="Contact (familiare 1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
@@ -28,10 +28,10 @@
             <mxPoint x="99.83" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-5" value="Contact (familiare n)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-5" value="Contact (familiare n)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-9" value="Case (nuova)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-9" value="Case (nuova)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-10" target="F4zYhCYsyOvKUlu6wecK-19">
@@ -44,13 +44,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-10" value="Case (variazione)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-10" value="Case (variazione)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-11" target="F4zYhCYsyOvKUlu6wecK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-11" value="Case (variazione)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-11" value="Case (variazione)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-9" target="F4zYhCYsyOvKUlu6wecK-1">
@@ -86,7 +86,7 @@
         <mxCell id="F4zYhCYsyOvKUlu6wecK-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-15" target="F4zYhCYsyOvKUlu6wecK-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-15" value="Asset TARI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-15" value="Asset TARI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F4zYhCYsyOvKUlu6wecK-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F4zYhCYsyOvKUlu6wecK-9" target="F4zYhCYsyOvKUlu6wecK-15">
@@ -116,10 +116,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-19" value="Asset version 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-19" value="Asset version 1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="680" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F4zYhCYsyOvKUlu6wecK-20" value="Asset version 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F4zYhCYsyOvKUlu6wecK-20" value="Asset version 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="680" y="200" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
